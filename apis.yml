@@ -32,6 +32,9 @@ description: 'SetPoint Medical is a bioelectronic medicine company developing an
   surface; this profile captures its identity and the security/disclosure posture surfaced
   by the enrichment pipeline.'
 url: https://raw.githubusercontent.com/api-evangelist/setpointmedical/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "It is a medical-device company with no public API or developer surface; this profile captures its identity and the security/disclosure posture surfaced by the enrichment pipeline."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
